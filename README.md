@@ -12,16 +12,6 @@ I'm a curious and passionate computer science student who enjoys exploring how s
 
 ---
 
-### 🧠 Soft Skills
-
-- 🤝 Team Player & Collaborator  
-- 🧩 Problem Solver & Logical Thinker  
-- 🗣️ Clear Communicator  
-- ⏱️ Time Management Ninja  
-- 📚 Fast Learner & Adaptable  
-
----
-
 ### 🛠️ Technical Skills
 
 #### 💻 Languages  
@@ -51,14 +41,13 @@ I'm a curious and passionate computer science student who enjoys exploring how s
 
 ---
 
-### 📌 Featured Projects
+### 🧠 Soft Skills
 
-- **Auto-Py**: Modular UI automation framework with Selenium  
-- **Curr-Ex**: Currency exchange & volatility prediction platform  
-- **FactChain**: Decentralized fact verification with IPFS & semantic search  
-- **CodeSage**: AI-powered automated code reviewer  
-- **Cardiosense**: ECG-based human activity classifier  
-
+- 🤝 Team Player & Collaborator  
+- 🧩 Problem Solver & Logical Thinker  
+- 🗣️ Clear Communicator  
+- ⏱️ Time Management Ninja  
+- 📚 Fast Learner & Adaptable 
 ---
 
 ### 📈 GitHub Stats
