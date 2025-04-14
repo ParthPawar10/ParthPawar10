@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Parth Pawar</h1>
+<h1 align="center">Greetings, I'm Parth</h1>
 
 <p align="center">🚀 Full-Stack Developer | 🧠 AI/ML Enthusiast | ⚙️ System Programmer</p>
 
