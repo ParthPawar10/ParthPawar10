@@ -1,14 +1,14 @@
 <h1 align="center">Greetings, I'm Parth</h1>
 
-<p align="center">🚀 Full-Stack Developer | 🧠 AI/ML Enthusiast | ⚙️ System Programmer</p>
+<p align="center"> Full-Stack Developer |  AI/ML Enthusiast |  System Programmer</p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm a curious and passionate computer science student who enjoys exploring how systems work under the hood while building impactful projects on the surface. From designing low-level programs to deploying AI-based applications, I strive to learn and deliver clean, efficient, and scalable solutions.  
 
-🔍 Exploring system internals | 🤖 Automating the boring stuff | 🌐 Building smarter web apps
+ Exploring system internals |  Automating the boring stuff |  Building smarter web apps
 
 ---
 
@@ -41,17 +41,17 @@ I'm a curious and passionate computer science student who enjoys exploring how s
 
 ---
 
-### 🧠 Soft Skills
+###  Soft Skills
 
-- 🤝 Team Player & Collaborator  
-- 🧩 Problem Solver & Logical Thinker  
-- 🗣️ Clear Communicator  
-- ⏱️ Time Management Ninja  
-- 📚 Fast Learner & Adaptable 
+-  Team Player & Collaborator  
+-  Problem Solver & Logical Thinker  
+-  Clear Communicator  
+-  Time Management Ninja  
+-  Fast Learner & Adaptable 
 ---
 
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/parth-pawar-b45702256)
 - 📧 parthpwr10112004@gmail.com
