@@ -50,14 +50,6 @@ I'm a curious and passionate computer science student who enjoys exploring how s
 - 📚 Fast Learner & Adaptable 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthPawar10&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthPawar10&layout=compact&theme=radical" width="300"/>
-</p>
-
----
 
 ### 🤝 Connect With Me
 
